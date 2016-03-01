@@ -11278,3 +11278,8 @@ nav .brand-logo #header-logo-yah {
 	width: 4.2rem;
 }
 
+#picup {
+	float:right;
+	max-height:75%;
+}
+
