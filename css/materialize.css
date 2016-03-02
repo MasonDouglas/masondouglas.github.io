@@ -11281,5 +11281,6 @@ nav .brand-logo #header-logo-yah {
 #picup {
 	float:right;
 	max-width:75%;
+	min-width:50px;
 }
 
